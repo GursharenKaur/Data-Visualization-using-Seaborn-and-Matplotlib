@@ -1,9 +1,5 @@
 # Data-Visualization-using-Seaborn-and-Matplotlib
 <br>
-Welcome to the Data Visualisation Using Python Libraries repository, your go-to resource for creating insightful and impactful visualizations using popular Python libraries.
-
-# Introduction
-
 Data visualization is a crucial aspect of data analysis, enabling better understanding and communication of data insights. This repository provides examples and explanations on how to leverage Python libraries for crafting professional and interactive visualizations.
 
 # Topics Covered
